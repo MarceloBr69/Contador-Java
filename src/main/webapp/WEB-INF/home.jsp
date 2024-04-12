@@ -10,5 +10,9 @@
 <body>
 	<h1>Bienvenido usuario!</h1>
 	<a href="/page">Ir al contador</a>
+	<br>
+	<a href="/opcional" >Ir a la opcion "desafio extra"</a>
+	<br>
+	<a href="/reset">Desea formatear el contador?</a>
 </body>
 </html>

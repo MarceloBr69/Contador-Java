@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Ud ha visto esta pagina <c:out value="${contador}"/></h1>
+	<p>Ud ha visto esta pagina <c:out value="${contador}"/> veces</p>
+	<a href="/opcional">Desea volver a testear esta pagina?</a>
 </body>
 </html>

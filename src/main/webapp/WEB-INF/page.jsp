@@ -9,5 +9,6 @@
 </head>
 <body>
 	<p>Ud ha visitado <a>http://localhost:8080/</a> <c:out value="${contador}"/> veces</p>
+	<a href="/">Quieres testear otra visita?</a>
 </body>
 </html>
